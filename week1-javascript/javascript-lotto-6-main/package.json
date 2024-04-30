@@ -10,7 +10,9 @@
     "@babel/core": "^7.23.0",
     "@babel/preset-env": "^7.22.20",
     "babel-jest": "^29.7.0",
-    "jest": "29.6.0"
+    "jest": "29.6.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
   },
   "scripts": {
     "test": "jest --detectOpenHandles --watch"
